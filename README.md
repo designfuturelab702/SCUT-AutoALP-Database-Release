@@ -1,6 +1,6 @@
 SCUT-AutoALP-Database-Release
 ===
-A diverse benchmark database (Size =583MB) for layout generation tasks and parsing tasks of floor plan/urban plan is now released by School of Architecture and School of Electronic and Information Engineering of South China University of Technology. The database can be downloaded through the following links :
+A diverse benchmark database (Size =583MB) for layout generation tasks and parsing tasks of floor plan/urban plan is now released jointly by School of Electronic and Information Engineering and School of Architecture of South China University of Technology. The database can be downloaded through the following links :
 
 * Download link1 (faster for people in China):
 
@@ -16,11 +16,11 @@ The dataset SCUT-AutoALP containing 602 samples and dense labels, which is flexi
 
 2 Database Construction
 --
-SCUT-AutoALP Dataset contains totally 602 samples with dense labels (annotated by architectural designers), which can be divided into two subsets.
+SCUT-AutoALP Dataset contains totally 602 samples with dense labels (annotated by architectural designers), which can be divided into two subsets.![image](https://github.com/designfuturelab702/SCUT-AutoALP-Database-Release/blob/master/Fig.2.jpg)
 
-Subset-I is for floor plan design, which contains 300 residential floor plan images.The original samples were collected from ”lianjia” website, and that with obvious drawing errors has been eliminated. All the cleaned samples were resized by 1: 100, and the final samples were placed on 20cm×20cm white background images. For layout parsing, we use different RGB color block to denote different regions for boundary label and layout label, as shown in Fig. 2a![image](https://github.com/designfuturelab702/SCUT-AutoALP-Database-Release/blob/master/Fig.2.jpg). Since all the drawing images were resized with the same scale, each of the region was labelled with the corresponding area for attribute prediction.
+Subset-I is for floor plan design, which contains 300 residential floor plan images.The original samples were collected from ”lianjia” website, and that with obvious drawing errors has been eliminated. All the cleaned samples were resized by 1: 100, and the final samples were placed on 20cm×20cm white background images. For layout parsing, we use different RGB color block to denote different regions for boundary label and layout label, as shown in Fig. 2a. Since all the drawing images were resized with the same scale, each of the region was labelled with the corresponding area for attribute prediction.
 
-Subset-II is for urban plan design, which contains 302 urban plan images of primary school campus. The original samples were collected from internet, like websites of architectural design or government. All the cleaned samples were resized by 1: 1800, and the final samples were placed on 24cm×24cm white background images. For layout parsing, we use different RGB color block to denote different regions for boundary label and layout label, as shown in Fig. 2b![image](https://github.com/designfuturelab702/SCUT-AutoALP-Database-Release/blob/master/Fig.2.jpg). For attribute prediction, we annotate each the regions with building area, and estimate building density and floor area ratio for attribute prediction.
+Subset-II is for urban plan design, which contains 302 urban plan images of primary school campus. The original samples were collected from internet, like websites of architectural design or government. All the cleaned samples were resized by 1: 1800, and the final samples were placed on 24cm×24cm white background images. For layout parsing, we use different RGB color block to denote different regions for boundary label and layout label, as shown in Fig. 2b. For attribute prediction, we annotate each the regions with building area, and estimate building density and floor area ratio for attribute prediction.
 
 3 Applications
 --
@@ -50,8 +50,9 @@ https://drive.google.com/open?id=1CiObapGiDtBZyEQR-HMP-d0Ts0AN1UQI
 --
 Note: The SCUT-AutoALP-Database-Release can be only used for non-commercial research purpose.
 
-For any questions about this database please contact the authors by sending email to designfuturelab702@scut.edu.cn.
+For any questions about this database please contact the authors by sending email to designfuturelab702@scut.edu.cn and lianglysky@gmail.com.
 
 Desclaimer
 --
+
 The dataset is for academic research use only. We are not responsible for the objectivity and accuracy of the proposed dataset.
