@@ -46,6 +46,12 @@ https://pan.baidu.com/s/1Ww54e12uGnNocA35Wl2-GQ (password: nmwc)
 
 https://drive.google.com/open?id=1CiObapGiDtBZyEQR-HMP-d0Ts0AN1UQI
 
+6 Contact
+--
+Note: The SCUT-AutoALP-Database-Release can be only used for non-commercial research purpose.
+
+For any questions about this database please contact the authors by sending email to designfuturelab702@scut.edu.cn.
+
 Desclaimer
 --
 The dataset is for academic research use only. We are not responsible for the objectivity and accuracy of the proposed dataset.
