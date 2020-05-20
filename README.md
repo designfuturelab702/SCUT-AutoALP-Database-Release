@@ -50,7 +50,7 @@ https://drive.google.com/open?id=1CiObapGiDtBZyEQR-HMP-d0Ts0AN1UQI
 --
 We are grateful to Professor Yubo Liu（liuyubo@scut.edu.cn）, Associate Professor Qiaoming Deng（dengqm@scut.edu.cn） and Associate Professor Lingyu Liang（lianglysky@gmail.com） for their deep insights. They not only promoted interdisciplinary cooperation, but also provided general ideas and macro guidance for the research.
 
-Yangting Lai (laiyangtinglynne@qq.com) led the overall design and planning of the database, while Jianyong Chen () provided major algorithm and technical support and patiently answered our questions. Wenqiang Lin () provided helpful suggestions on database creation.We also thank the students from the School of Architecture and the School of Telecommunications for their hard work in this study. 
+Yangting Lai (laiyangtinglynne@qq.com) led the overall design and planning of the database, while Jianyong Chen () provided major algorithm and technical support and patiently answered our questions. Wenqiang Lin (857813742@qq.com) provided helpful suggestions on database creation.We also thank the students from the School of Architecture and the School of Telecommunications for their hard work in this study. 
 
 Note: The SCUT-AutoALP-Database-Release can be only used for non-commercial research purpose.
 
