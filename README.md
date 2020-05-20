@@ -37,7 +37,7 @@ We conduct statistics with the samples in the dataset. The results are shown in 
 
 ![Fig5](./figure/Fig5.png)
 
-![Table2](figure\Table2.png)
+![Table2](./figure/Table2.png)
 
 For more details please refer to our paper.
 
