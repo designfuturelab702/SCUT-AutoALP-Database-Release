@@ -71,7 +71,8 @@ The whole project is supervised by:
 * Associate Professor Qiaoming Deng (dengqm@scut.edu.cn)
 * Associate Professor Lingyu Liang (lianglysky@gmail.com)
 
-Among the team, Yangting Lai led the design and creation of the dataset, Jianyong Chen provided technical support for algorithms and data collection, and Wenqiang Lin provided significant contribution to the creation of the dataset.
+Among the team, Yangting Lai led the design and creation of the dataset, Jianyong Chen provided technical support for algorithms and data collection, and Wenqiang Lin provided significant contribution to the creation of the dataset. 
+
 For more detailed informations, please contact:
 
 * Yangting Lai (laiyangtinglynne@qq.com)
