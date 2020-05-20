@@ -14,7 +14,7 @@ The SCUT-AutoALP database contains 300 residential floor plan samples and 302 sc
 --
 The SCUT-AutoALP Dataset contains totally 602 samples with dense labels annotated by architectural professionals, which can be divided into two subsets.
 
-![Fig.2](figure\Fig.2.jpg)
+![Fig2](./figure/Fig2.jpg)
 
 Subset-I is composed of 300 residential floor plan image samples. The original samples were collected from [Lianjia](https://www.lianjia.com), and filtered by architecture professionals. The filtered samples were scaled to 1: 100 and placed on 20cm×20cm pure white background images. For layout parsing, we use different RGB color blocks to denote different regions for boundary labels and layout labels, as shown in Fig. 2a. Each sample is labelled with the corresponding architecture area indexes.
 
@@ -24,18 +24,18 @@ Subset-II is composed of 302 urban plan image samples of primary school campus. 
 --
 With different combination of samples and labels, SCUT-AutoALP is available for different applications related to  architecture layout. For example, boundary label and layout label allow interior plan generation; 
 
-![Fig.8](figure\Fig.8.png)
+![Fig8](./figure/Fig8.png)
 
 and samples and layout labels allow image-to-image layout recognition.
 
-![Fig.9](figure\Fig.9.png)
+![Fig9](./figure/Fig9.png)
 
 4 Dataset Statistics
 --
 
 We conduct statistics with the samples in the dataset. The results are shown in following figure: 
 
-![Fig.5](figure\Fig.5.png)
+![Fig5](./figure/Fig5.png)
 
 ![Table2](figure\Table2.png)
 
@@ -45,15 +45,15 @@ For more details please refer to our paper.
 --
 We evaluated SCUT-AutoALP for different layout parsing tasks, including interior plan generation and layout recognition/generation. 
 
-![interior plan generation for FP](figure\interior plan generation for FP.jpg)
+![genFP](./figure/genFP.jpg)
 
-![interior plan generation for UP](figure\interior plan generation for UP.jpg)
+![genUP](./figure/genUP.jpg)
 
 The above two figures show the results of interior plan generation for floor/urban plan, which takes layout label as output ground-truth, boundary label as input condition.
 
-![layout generation](figure\layout generation.jpg)
+![layoutgen](./figure/layoutgen.jpg)
 
-![layout recognition](figure\layout recognition.jpg)
+![layoutrec](./figure/layoutrec.jpg)
 
 The above two figures show the results of layout generation/recognition for floor plan, which takes layout label/sample as output ground-truth, sample/layout label as input condition.
 
