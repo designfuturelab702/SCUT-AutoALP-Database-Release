@@ -62,7 +62,7 @@ All the results (Size = 3.46MB) is available at:
 
 * https://drive.google.com/open?id=1CiObapGiDtBZyEQR-HMP-d0Ts0AN1UQI
 
-## 6 Project Contributer and Contact
+## 6 Project Contributor and Contact
 
 The dataset is the initial achievement of interdisciplinary cooperation between the School of Architecture and the School of Electronics and Information Engineering of South China University of Technology (SCUT). 
 
