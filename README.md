@@ -44,9 +44,9 @@ For more details please refer to our paper.
 
 We evaluated SCUT-AutoALP for different layout parsing tasks, including interior plan generation and layout recognition/generation. 
 
-<img src='figure/genFP.jpg' align="center" width=680>
+<img src='figure/B2LFP.jpg' align="center" width=680>
 
-<img src='figure/genUP.jpg' align="center" width=680>
+<img src='figure/B2LUP.jpg' align="center" width=680>
 
 The above two figures show the results of interior plan generation for floor/urban plan, which takes layout label as output ground-truth, boundary label as input condition.
 
@@ -73,13 +73,13 @@ The whole project is supervised by:
 
 Among the team, Yangting Lai led the design and creation of the dataset, Jianyong Chen provided technical support for algorithms and data collection, and Wenqiang Lin provided significant contribution to the creation of the dataset. 
 
-For more detailed informations, please contact:
+For more detailed informations, please contact: 
 
 * Yangting Lai (laiyangtinglynne@qq.com)
 * Jianyong Chen (theochan666@gmail.com)
 * Wenqiang Lin (857813742@qq.com)
 
-For any questions about this database please contact the authors by sending email to designfuturelab702@scut.edu.cn and lianglysky@gmail.com.
+For any questions about this database please contact the authors by sending email to designfuturelab702@scut.edu.cn or lianglysky@gmail.com.
 
 ## Desclaimer
 
