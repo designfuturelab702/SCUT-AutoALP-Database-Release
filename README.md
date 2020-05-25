@@ -75,9 +75,9 @@ Among the team, Yangting Lai led the design and creation of the dataset, Jianyon
 
 For more detailed informations, please contact: 
 
-* Yangting Lai (laiyangtinglynne@qq.com)
-* Jianyong Chen (theochan666@gmail.com)
-* Wenqiang Lin (857813742@qq.com)
+* Yangting Lai (laiyangtinglynne@qq.com, graduate student of the School of Architecture, class of 2018)
+* Jianyong Chen (theochan666@gmail.com, graduate student of the School of Electronics and Information Engineering, class of 2020)
+* Wenqiang Lin (857813742@qq.com, graduate student of the School of Architecture, class of 2017)
 
 For any questions about this database please contact the authors by sending email to designfuturelab702@scut.edu.cn or lianglysky@gmail.com.
 
